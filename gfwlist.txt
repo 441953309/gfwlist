@@ -1,3 +1,4 @@
+openai.com
 huggingface.co
 civitai.com
 casalemedia.com
